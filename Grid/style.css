@@ -1,0 +1,25 @@
+.container {
+  border: 5px solid black;
+}
+
+.cell {
+  padding: 32px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  border: 3px solid red;
+  color: #fff;
+}
+
+.cell-1 {
+  background-color: blueviolet;
+}
+.cell-2 {
+  background-color: greenyellow;
+}
+.cell-3 {
+  background-color: blue;
+}
+.cell-4 {
+  background-color: orangered;
+}

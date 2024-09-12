@@ -1,0 +1,34 @@
+/*
+.outer {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.inner {
+  background-color: red;
+  width: 75%;
+  /* width: 100px; */
+/* height: 75%; */
+/* height: 100px; */
+/* } */
+
+html {
+  font-size: 10px;
+}
+
+div {
+  font-size: 5px;
+}
+
+.text {
+  /* font-size: 32px; */
+  font-size: 2em;
+  color: blue;
+}
+
+.some-text {
+  /*! rem-> also depends on root element /html page */
+  font-size: 2rem;
+  color: red;
+}
